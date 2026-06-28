@@ -3,7 +3,8 @@ version: 1.0.0
 description: Axelix Labs AI harness for creating skills
 author: Mikhail Polivakha
 dependencies:
-  apm: []
+  apm:
+    - anthropics/skills/skills/skill-creator
   mcp: []
 includes: auto
 scripts: {}
