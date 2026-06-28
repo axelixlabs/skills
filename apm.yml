@@ -1,0 +1,9 @@
+name: axelixlabs-skills
+version: 1.0.0
+description: Axelix Labs AI harness for creating skills
+author: Mikhail Polivakha
+dependencies:
+  apm: []
+  mcp: []
+includes: auto
+scripts: {}
